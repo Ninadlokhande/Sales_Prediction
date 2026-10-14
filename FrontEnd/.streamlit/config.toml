@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00A86B"          # Mint accent color
+backgroundColor = "#F0FDF4"       # Soft light mint/white background
+secondaryBackgroundColor = "#DCFCE7" # Light aqua/mint secondary elements
+textColor = "#064E3B"             # Deep forest green/dark aqua text for contrast
+font = "sans serif"
