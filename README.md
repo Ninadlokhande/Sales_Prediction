@@ -20,6 +20,8 @@ An end-to-end Machine Learning and Business Intelligence web application built t
 * **Frontend / UI:** Streamlit (Custom Mint & Aqua Theme)
 * **Architecture:** Modular separation of backend data pipelines from the frontend user interface
 
+To open the streamlit application use the link  :https://sales-pridect-ninad.streamlit.app/
+
 ---
 
 ## 📂 Project Architecture
@@ -34,3 +36,5 @@ Sales_Prediction/
 │   └── model_backend.py        # ML data pipeline, training logic, and inference engine
 └── FrontEnd/
     └── app.py                  # Main tabbed dashboard interface
+
+-=
